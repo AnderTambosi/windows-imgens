@@ -1,9 +1,3 @@
-We have provided the following models:
-
-1. realesr-animevideov3 (default)
-2. realesrgan-x4plus
-3. realesrgan-x4plus-anime
-
 Command:
 
 1. ./realesrgan-ncnn-vulkan.exe -i input.jpg -o output.png
